@@ -396,4 +396,6 @@ FodyWeavers.xsd
 
 # Гонщик JetBrains
 *.sln.iml
-Diagramma.jpg
+
+#Формат JPG
+*.jpg
